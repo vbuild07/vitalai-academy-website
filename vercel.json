@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/webinar-prompting", "destination": "https://vital-ai-launchpad.lovable.app/webinar" },
+    { "source": "/webinar-product-owners", "destination": "https://vital-ai-launchpad.lovable.app/webinar-product-owners" }
+  ]
+}
