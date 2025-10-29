@@ -6,12 +6,10 @@
     { "source": "/webinar-product-owners", "destination": "https://vital-ai-launchpad.lovable.app/webinar-product-owners" },
     { "source": "/webinar-product-owners/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/webinar-product-owners/$1" },
 
-    // asset buckets commonly used by Lovable/SPA builds
     { "source": "/assets/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/assets/$1" },
     { "source": "/static/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/static/$1" },
     { "source": "/build/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/build/$1" },
     { "source": "/_next/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/_next/$1" },
-    { "source": "/_app/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/_app/$1" },
     { "source": "/images/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/images/$1" },
     { "source": "/img/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/img/$1" },
     { "source": "/fonts/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/fonts/$1" },
