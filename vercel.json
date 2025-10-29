@@ -15,5 +15,8 @@
     { "source": "/fonts/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/fonts/$1" },
     { "source": "/css/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/css/$1" },
     { "source": "/js/(.*)", "destination": "https://vital-ai-launchpad.lovable.app/js/$1" }
+  ],
+  "redirects": [
+    { "source": "/webinar", "destination": "/webinar-prompting", "permanent": true }
   ]
 }
